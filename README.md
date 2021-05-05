@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ArtemDotIcu
+- 🌱 I’m currently learning Python3
+- 📫 How to reach me, discord: ArtemDotIcu | NT#1337
